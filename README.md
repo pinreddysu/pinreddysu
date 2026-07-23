@@ -102,7 +102,7 @@ An AI-powered portfolio management platform that combines:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinreddysu&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinreddysu&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pinreddysu&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pinreddysu&theme=github-dark)
 
