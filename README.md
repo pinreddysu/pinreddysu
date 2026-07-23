@@ -100,17 +100,17 @@ An AI-powered portfolio management platform that combines:
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PINREDDYSU&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinreddysu&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PINREDDYSU&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinreddysu&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PINREDDYSU&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pinreddysu&theme=github-dark)
 
 ---
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PINREDDYSU&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pinreddysu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
