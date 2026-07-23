@@ -106,12 +106,6 @@ An AI-powered portfolio management platform that combines:
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pinreddysu&theme=onedark)]
-
----
-
 # 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/scrp
